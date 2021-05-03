@@ -1,0 +1,18 @@
+Question 1
+In your own words, define the following aspects of computational thinking: Problem Identification, Decomposition, Pattern Recognition, Abstraction.
+
+Anwser:
+Problem Identification - This is the process of defining, researching and gathering information about a problem in order to identify and simplify the major factors that contribute to the problem.
+
+Decomposition - This is an approach to solving a problem by breaking it into smaller parts (sub-problems) that each could be separately handled or further dissected into sub-problems.
+
+Pattern Recognition -   This involves identifying if the problem as a whole or some certain sub-problems has been attempted or solved before, and if so, can we adopt the method used in attempting those similar problems?
+
+Abstraction - an aspect of problem solving which involves separating or classifying sub-problems by order of priority. The objective of abstraction is to help identify what are those part of our problem we should focus on trying to solve rather than the less important or are dependent on the result of one or more sub-problems.
+
+
+Qusetion 2
+Once you’ve identified a problem that may be ‘solvable’ through computational thinking,  you need to decompose the topic further by creating sub-problems. In your own words, explain why we need to decompose complex problems in order for a computer to solve it.
+
+Anwser:
+Computers don't understand problems, they understand instructions. We decompose complex problems into smaller solvable problems which makes developing an algorithm - in order to get as close as possible to the solution - easier. This algorithm is then fed to the computer to test and validate our theory.
